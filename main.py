@@ -2,8 +2,8 @@ import requests
 import googlemaps
 
 # TODO: Store keys elsewhere
-api_key = 'AIzaSyDA_65RKIFqNhtpXSJNYVRT9ali79U6qgI'
-gmaps = googlemaps.Client(key='AIzaSyDA_65RKIFqNhtpXSJNYVRT9ali79U6qgI')
+api_key = ''
+gmaps = googlemaps.Client(key='')
 
 # sending get request and saving the response as response object
 r = requests.get(
