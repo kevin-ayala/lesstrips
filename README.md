@@ -1,2 +1,0 @@
-# lesstrips
-Repo for lesstrips 
